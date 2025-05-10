@@ -1,8 +1,8 @@
 ---
 
-# ♟ Game in C++ with SFML
+# 👾 Game in C++ with SFML
 
-A windowed chess application built using **C++** and **SFML**.
+A windowed application built using **C++** and **SFML**.
 Based on the concepts from the book *SFML Game Development By Example*.
 
 ---
