@@ -1,6 +1,6 @@
 ---
 
-# Game in C++ with SFML
+# ♟ Game in C++ with SFML
 
 A windowed chess application built using **C++** and **SFML**.
 Based on the concepts from the book *SFML Game Development By Example*.
@@ -60,4 +60,3 @@ Tools → Compiler Options → Settings → Code Generation → Language Standar
 
 ---
 
-Let me know if you'd like me to convert this into a Russian version or add build instructions for other platforms like Linux or macOS.
