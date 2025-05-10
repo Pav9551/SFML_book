@@ -9,7 +9,7 @@ int main()
     freopen("CONOUT$", "w", stdout); 
     //SetConsoleOutputCP(1251); //win 1251
     //SetConsoleOutputCP(65001); // utf-8
-    //std::cout << "Привет, мир!" << std::endl;
+    //std::cout << "Привет, мир! " << std::endl;
     std::cout << "Hello world!" << std::endl;
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
     //sf::CircleShape shape(100.f);
