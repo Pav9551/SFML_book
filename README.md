@@ -33,3 +33,5 @@ Win + R → sysdm.cpl → вкладка Дополнительно → Пере
 ## Tools → Compiler Options → Settings → Code Generation → Language Standard → ISO C++11 (или выше)
 - интересная ссылка https://www.youtube.com/watch?v=yHrrNcDqzk8&t=2s
 
+## Книга для изучения https://github.com/BijayanBhattarai/BooksCollection/blob/master/Game%20Developement/SFML-Game-Developme-By-Example.pdf
+
